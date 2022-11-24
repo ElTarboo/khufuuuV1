@@ -1,4 +1,4 @@
-//════════════════════════════//
+;//════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -65,12 +65,12 @@ global.owner = ['201091237336']
 global.ownertag = '201091237336' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ ❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»Bot ×፝֟͜×' //ur bot name
-global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
+global.linkz = "https://api.whatsapp.com/send?phone=+201091237336&text=*%D9%85%D9%80%D8%B1%D8%AD%D8%A8%D9%80%D8%A7%D9%8B+%D8%A8%D9%80%D9%83+%D9%81%D8%B9%D8%A7%D9%84%D9%80%D9%85%D9%8A++%D9%8A%D8%A7%D9%84%D8%B7%D9%80%D9%8A%D9%81*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80.%0A*send+your+name*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80" //your theme url which will be displayed on whatsapp
+global.websitex = "https://api.whatsapp.com/send?phone=+201091237336&text=*%D9%85%D9%80%D8%B1%D8%AD%D8%A8%D9%80%D8%A7%D9%8B+%D8%A8%D9%80%D9%83+%D9%81%D8%B9%D8%A7%D9%84%D9%80%D9%85%D9%8A++%D9%8A%D8%A7%D9%84%D8%B7%D9%80%D9%8A%D9%81*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80.%0A*send+your+name*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80" //ur website to be displayed
+global.botscript = 'https://api.whatsapp.com/send?phone=+201091237336&text=*%D9%85%D9%80%D8%B1%D8%AD%D8%A8%D9%80%D8%A7%D9%8B+%D8%A8%D9%80%D9%83+%D9%81%D8%B9%D8%A7%D9%84%D9%80%D9%85%D9%8A++%D9%8A%D8%A7%D9%84%D8%B7%D9%80%D9%8A%D9%81*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80.%0A*send+your+name*+%E2%9D%A4%EF%B8%8F%F0%9F%8E%80' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "01121968769" //ur sticker watermark packname
+global.packname = "01091237336" //ur sticker watermark packname
 global.author = "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»™ " //ur sticker watermark author
 
 //Bot theme media
